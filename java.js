@@ -3,4 +3,4 @@ a.innerHTML="hâhhahahahhahahhahahahahah";
 let b=document.getElementById("bobo");
 b.innerHTML="hfashdfahsdhfhsdf";
 let c=document.getElementById("soso");
-c.innerHTML="jhasdjkfhaksgfdhgggggggggrerwerwerwqrwerqwerqwrwqerwqrwqrwqrwqrwerwerwqerqwrqweaskdf";
+c.innerHTML="jhasdjkfhaksgfdhgggggggggaskdf";
